@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://images.unsplash.com/photo-1501472138063-7d4d35f206fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60');
+}
+.container {
+  text-align: center;
+}
+.container h1 {
+  margin-bottom: 20px;
+  color: white;
+}
+.container p {
+  padding: 25px;
+  color: rgb(8, 184, 60);
+}
